@@ -1,0 +1,30 @@
+p { /* tagName selector*/
+
+#LOLWTF
+	color: red;
+}
+
+body { 
+	border: 5px solid black;
+}
+.p-bright{ color: pink;
+
+
+}
+.p-emph { /* className selector */ 
+	color: black;
+	font-weight:600; 
+
+}
+p {/* tagName selector */
+	color: red;
+
+}
+
+strong { color:yellow;
+
+}
+
+p strong {
+	color:red;
+}
